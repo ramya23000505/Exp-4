@@ -1,5 +1,6 @@
 ## Exp - 4 HOSPITAL MANAGEMENT SYSTEM
-
+### Name: Ramya R
+### Reg No: 212223230169
 ## AIM:To create UML diagrams for Hospital Management System
 ## SRS (Procedure):
 
